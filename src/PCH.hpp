@@ -33,6 +33,7 @@
 #include <set>
 #include <string>
 #include <vector>
+#include<queue>
 
 // Additional C/C++ libs
 #include <atomic>
